@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+s6fO/gdprHrSSA7LQFQ5cBn4hOzfQdWu4JvlY9YELOpBNq0DmFCNdcgmZT03jaeVqzoZLLN1EnT10uCVs633Q==",
+  "dgSpecHash": "MzEvtp+ZFADwCe1h3b6bNEZijw8YKO3AQYulyCz66YZ2qaIsoTLcd/HRx55DHe4h8/tCaEL+ShBVC2w8WBwteQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MarceloHumerez\\Software\\Angular-ASPNetCore\\Curso Udemy-Tomas Ruiz\\Preguntas_Y_Respuestas\\backend2\\backend2\\backend2.csproj",
   "expectedPackageFiles": [
@@ -33,8 +33,7 @@
     "C:\\Users\\MarceloHumerez\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\MarceloHumerez\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\MarceloHumerez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\MarceloHumerez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
-    "C:\\Users\\MarceloHumerez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+    "C:\\Users\\MarceloHumerez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }
